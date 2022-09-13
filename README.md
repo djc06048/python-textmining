@@ -1,2 +1,2 @@
 # python.software_coaching
-SKKU, TextMining - "Software Coaching for Python" (2021.09-2021.11)
+2021 성균 SW코칭 - TextMining 프로젝트 저장소입니다.
